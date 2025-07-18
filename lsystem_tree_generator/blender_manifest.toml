@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "lsystem_tree_generator"
+version = "1.0.0"
+name = "L-system tree generator"
+tagline = "A simple add-on which uses L-Systems to generate trees"
+maintainer = "Lars Schnitzler"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2025 Lars Schnitzler"]
